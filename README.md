@@ -1,10 +1,10 @@
 ## Description
 
-A Rest API em questão se trata de um serviço de envio e gerenciamento de notificações feito em NestJS com conceitos como:
+The Rest API in question is a notification sending and management service made in NestJS with concepts such as:
 
 - Repository Pattern
 - Factory Pattern
-- Desacomplamento de camadas
+- Layer decoupling
 - TDD
 
 ## Installation
